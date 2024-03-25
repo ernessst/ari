@@ -1,6 +1,6 @@
 ABOUT THE PROJECT
 
-Ari – A space for Ariana Grande. I created this project as a part of my assessment in my post-grad (Master of Digital Media). Having no background in coding, it was a stressful but fulfilling at the same time as I was able to pull a simple design like this. Its not much but I tried my best 
+Ari – A space for Ariana Grande. I created this project as a part of my assessment in my post-grad (Master of Digital Media).
 
 Welcome to Ariana Grande’s fan made space! This aims to introduce users to Ariana Grande by providing a brief biography of the singer and a list of her albums. The page also includes hyperlinks to Ariana’s social spaces to promote and start a connection with her.
 
